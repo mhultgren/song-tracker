@@ -1,0 +1,12 @@
+.loginContainer {
+    text-align: center;
+}
+
+.loginContainer img {
+    margin: 25px;
+    width: 250px;
+}
+
+#titleText {
+    font-size: 100px;
+}

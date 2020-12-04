@@ -1,0 +1,22 @@
+.usernameContainer {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.usernameContainer h4 {
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+.mainPageContainer {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.musicLists {
+    margin-top: 50px;
+}
+
+.addSongButton {
+    margin-top: 20px;
+}
