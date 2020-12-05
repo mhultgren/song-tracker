@@ -1,7 +1,6 @@
 const { ObjectID } = require('mongodb');
 
 const MongoClient = require('mongodb').MongoClient;
-const uri = "mongodb+srv://myles:comp355@cluster0.oaecz.mongodb.net/<dbname>?retryWrites=true&w=majority";
 const client = new MongoClient(uri, { useUnifiedTopology: true });
 
 async function connectDB() {
