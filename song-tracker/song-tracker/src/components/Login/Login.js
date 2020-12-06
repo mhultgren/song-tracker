@@ -2,8 +2,6 @@ import React, {Component} from 'react';
 import './Login.css';
 import { GoogleLogin } from 'react-google-login';
 
-const clientId = '61064734999-7a06si2l6d02kpvd21o6sioc0a3aqqt2.apps.googleusercontent.com';
-
 class Login extends Component {
     render() {
         const onSuccess = (res) => {
